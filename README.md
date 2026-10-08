@@ -1,4 +1,4 @@
-# AI Study Guide
+# studyguideball
 
 A static study guide based on Robert Pino's Lineball and BayesBall teaching tools. It includes Super Summary, The Five Steps, Naive Bayes, Linear Classifier, Machine Learning, Compare Models, and a practice Quiz with automatic answer checking.
 
@@ -12,6 +12,8 @@ A static study guide based on Robert Pino's Lineball and BayesBall teaching tool
 6. GitHub will show the published URL on the Pages settings screen after deployment finishes.
 
 There is no build step, server, API key, or package installation. Hash navigation works on GitHub project pages. To preview locally, open `index.html` in a browser.
+
+The supplied studyguideball logo is embedded in `index.html`, so the header works even when only that file is uploaded. A separate `studyguideball.png` copy is also included.
 
 The movie posters load from the original Lineball repository and require an internet connection. All lessons, calculations, and quizzes are contained in `index.html`. Student work stays in the current page session and resets on reload; no student data is submitted or collected.
 
